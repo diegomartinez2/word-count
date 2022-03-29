@@ -15,4 +15,6 @@ We use this example in two [CodeRefinery](https://coderefinery.org/) lessons:
 - https://coderefinery.github.io/reproducible-research/
 - https://coderefinery.github.io/documentation/
 
- DOI: 10.5072/zenodo.1044092
+
+[![DOI](https://sandbox.zenodo.org/badge/475347315.svg)](https://sandbox.zenodo.org/badge/latestdoi/475347315)
+
